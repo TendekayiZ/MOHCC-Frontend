@@ -1,0 +1,38 @@
+
+.nav-container{
+  align-content: center;
+}
+img{
+  height: 40px;
+  width: 40px;
+  float: left;
+}
+.navbar-nav{
+float:right;
+}
+
+.navbar-nav .nav-link {
+    margin-right: 1rem;
+    align-items: center;
+    padding-left: 50px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-size: 25px;
+  }
+  
+  a{
+    padding: 10px;
+    text-decoration: none;
+  } 
+
+  @media (max-width: 991.98px) {
+    .navbar-brand {
+      display: none;
+    }
+  }
+  
+  .welcome {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }

@@ -1,0 +1,24 @@
+<form [formGroup]="loginForm" (ngSubmit)="onSubmit()">
+    <div class="login-container">
+      <div class="login-card">
+        <h2>Login to start</h2>
+        <div class="form-group">
+          <label for="username">Username</label>
+          <input type="text" id="username" formControlName="username" placeholder="Enter your username">
+        </div>
+        <div class="form-group">
+          <label for="password">Password</label>
+          <input type="password" id="password" formControlName="password" placeholder="Enter your password">
+        </div>
+        <div class="form-actions">
+            <button type="button" class="btn btn-primary" (click)="navigateToSymptoms()">Login</button>
+          <button type="button" class="btn btn-secondary" (click)="onCancel()">Cancel</button>
+        
+        </div>
+        <a routerLink="/forgot-password">Forgot password</a>
+        <div class="sign">
+          <p>Don't have an account? <a routerLink="/register">Register Here</a></p>
+        </div>
+      </div>
+    </div>
+  </form>
