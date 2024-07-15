@@ -1,0 +1,21 @@
+<body><h1>STD</h1>
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Symptoms</th>
+        <th>Prevention</th>
+        <th>Get Help</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let std of stdList">
+        <td>{{ std.name }}</td>
+        <td>{{ std.symptoms }}</td>
+        <td>{{ std.prevention }}</td>
+        <td><button (click)="getHelp(std)" class="btn btn-primary">Get Help</button></td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+
