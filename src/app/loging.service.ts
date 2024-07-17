@@ -12,7 +12,7 @@ export class LogingService {
   constructor(private http: HttpClient) { }
 
   authenticate(username: any, password: any): Observable<any> {
-    const url = `${this.baseUrl}/authenticate;` //Replace with the authentication endpoint in your backend
+    const url = `${this.baseUrl}/login;` //Replace with the authentication endpoint in your backend
     const body = { username, password };
     return this.http.post(url, body);
   }

@@ -35,9 +35,9 @@ export class LoginComponent implements OnInit {
       const username = this.loginForm.get('username')?.value;
       const password = this.loginForm.get('password')?.value;
 
-     const authentication$ = this.logingService.authenticate(username, password);
-      if (authentication$ instanceof Observable) {
-       authentication$.subscribe(
+     const login$ = this.logingService.authenticate(username, password);
+      if (login$ instanceof Observable) {
+       login$.subscribe(
          () => {
             console.log('Login successful:', this.loginForm.value);
             this.router.navigate(['/symptoms']);

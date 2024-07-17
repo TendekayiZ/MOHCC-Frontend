@@ -25,7 +25,9 @@ float:right;
     padding: 10px;
     text-decoration: none;
   } 
-
+    i{
+      color: black;
+    }
   @media (max-width: 991.98px) {
     .navbar-brand {
       display: none;
