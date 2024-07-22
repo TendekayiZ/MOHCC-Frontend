@@ -1,8 +1,11 @@
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
+<<<<<<< HEAD
 import { RegistrationService } from '../registration.service';
 import { RegistrationData } from '../registration-data.model';
 import Swal from 'sweetalert2';
+=======
+>>>>>>> origin/frontend
 
 @Component({
   selector: 'app-register',
@@ -12,6 +15,7 @@ import Swal from 'sweetalert2';
 export class RegisterComponent implements OnInit {
   registerForm!: FormGroup;
 
+<<<<<<< HEAD
   constructor( private formBuilder: FormBuilder, private  RegistrationService: RegistrationService) { }
 
   ngOnInit() {
@@ -67,5 +71,26 @@ export class RegisterComponent implements OnInit {
     );
   }
     
+=======
+  constructor(private formBuilder: FormBuilder) { }
+
+  ngOnInit() {
+    this.registerForm = this.formBuilder.group({
+      name: ['', Validators.required],
+      surname: ['', Validators.required],
+      age: ['', [Validators.required, Validators.min(1)]],
+      sex: ['', Validators.required],
+      email: ['', [Validators.required, Validators.email]],
+      location: ['', Validators.required],
+      dob: ['', Validators.required]
+    });
+  }
+
+  onSubmit() {
+    if (this.registerForm.valid) {
+      // Handle form submission logic here
+      console.log(this.registerForm.value);
+    }
+>>>>>>> origin/frontend
   }
 }
