@@ -35,7 +35,7 @@ export class LoginComponent implements OnInit {
       const username = this.loginForm.get('username')?.value;
       const password = this.loginForm.get('password')?.value;
 
-     const login$ = this.logingService.authenticate(username, password);
+     const login$ = this.logingService.login(username, password);
       if (login$ instanceof Observable) {
        login$.subscribe(
          () => {
@@ -48,7 +48,7 @@ export class LoginComponent implements OnInit {
           }
         );
       } else {
-        console.log('authenticate() in LoginService should return an Observable.');
+        console.log(' in LoginService should return an Observable.');
       }
     }
   }
