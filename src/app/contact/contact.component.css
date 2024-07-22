@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 
 /* In src/styles.css or src/styles.scss */
@@ -56,7 +56,6 @@ body {
 .contact-us ul li {
   margin: 5px 0;
 }
-=======
 body {
 	font-family: Arial;
 	background-image: url('../../assets/images/hy.png');
@@ -172,4 +171,4 @@ body {
 		padding: 10px;
 	}
 }
->>>>>>> origin/frontend
+
