@@ -3,7 +3,7 @@ ng serve
 <h1>med</h1>
 <!--[Setho]('/assets/images/setho.jpg')>!
 
-[Setho]('/../src/assets/images/setho.jpg')
+
 
 <p>health for students</p>
 
