@@ -2,7 +2,7 @@ ng serve
 <div align="center">
 <h1>med</h1>
 
-![Setho]('src/assets/images/setho.jpg')
+![Setho]('/assets/images/setho.jpg')
 
 <p>health for students</p>
 
