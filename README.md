@@ -1,42 +1,103 @@
-# Clinic
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.14.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-
-##cloning git repository
-git clone <url>
-
-##running angular app
-open MOHCC attachees in vs code and open terminal
-
-## installing angular packages
-run npm install command
-
-## run project
 ng serve
+<div align="center">
+<h1>med</h1>
+
+<img
+    height="80"
+    width="80"
+    alt="gremlins"
+    src="https://raw.githubusercontent.com/marmelab/gremlins.js/master/other/gremlins.png"
+/>
+
+<p>health for students</p>
+
+<br />
+
+
+
+<br />
+</div>
+
+<hr />
+
+[![]()]()
+
+<div align="center">
+<img
+    width="500"
+    alt="TodoMVC attacked by gremlins"
+    src="http://static.marmelab.com/todo.gif"
+/>
+</div>
+
+> 
+>
+> 
+
+## Table of Contents
+
+<!-- prettier-ignore-start -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Purpose](#purpose)
+- [Installation](#installation)
+- [Basic Usage](#basic-usage)
+- [Advanced Usage](#advanced-usage)
+  - [Setting Gremlins and Mogwais To Use In A Test](#setting-gremlins-and-mogwais-to-use-in-a-test)
+
+- [Docs](#docs)
+  - [Issues](#issues)
+  - [🐛 Bugs](#-bugs)
+  - [💡 Feature Requests](#-feature-requests)
+
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+<!-- prettier-ignore-end -->
+
+## Purpose
+
+Ever encounted a situation whereby students suffer from STDs and STIs ashemed to be open.
+
+: This app, is useful to keep our patient private. The patient gets both treatement and privacy.
+
+
+## Installation
+
+This module is distributed via github. `dependencies`:
+
+```
+
+```
+
+
+## Basic Usage
+ 
+
+
+## Advanced Usage
+
+
+
+## Docs
+
+### Issues
+
+_Looking to contribute? Look for the 
+### 🐛 Bugs
+
+Please file an issue for bugs, missing documentation, or unexpected behavior.
+
+[**See Bugs**]()
+
+### 💡 Feature Requests
+
+Please file an issue to suggest new features. Vote on feature requests by adding
+a 👍. This helps maintainers prioritize what to work on.
+
+[**See Feature Requests**]()
+
 
 
 
