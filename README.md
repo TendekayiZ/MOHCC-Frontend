@@ -2,8 +2,8 @@ ng serve
 <div align="center">
 <h1>med</h1>
 
-<!--[Setho](src/assets/images/setho.jpg){: style = "width="40" height="30"" }-->
-<img src="https://github.com/TendekayiZ/MOHCC-Frontend/blob/frontend/src/assets/images/setho.jpg" width="200" height="400" />
+<!--[Setho](src/assets/images/setho.jpg){: style = "width="40" height="30""https://github.com/TendekayiZ/MOHCC-Frontend/blob/frontend/src/assets/images/setho.jpg }-->
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhealth.economictimes.indiatimes.com%2Fnews%2Fdiagnostics%2Fhumble-stethoscope-can-detect-heart-defects-in-children-with-95-accuracy-study%2F94525683&psig=AOvVaw2CiVPvMvmF7GtLraoCVlVj&ust=1721896261710000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiA5cqhv4cDFQAAAAAdAAAAABAE" width="200" height="400" />
 
 
 
