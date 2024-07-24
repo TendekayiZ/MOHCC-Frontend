@@ -24,9 +24,7 @@ ng serve
 
 <div align="center">
 <img
-    width="500"
-    alt="TodoMVC attacked by gremlins"
-    src="http://static.marmelab.com/todo.gif"
+   
 />
 </div>
 
