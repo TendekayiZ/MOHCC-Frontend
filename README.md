@@ -5,7 +5,7 @@ ng serve
 <img
     height="80"
     width="80"
-    alt="setho.jpg"
+    alt="setho"
     src="'../../assets/images/"
 />
 
