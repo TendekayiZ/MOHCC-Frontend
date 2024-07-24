@@ -5,8 +5,8 @@ ng serve
 <img
     height="80"
     width="80"
-    alt="gremlins"
-    src="https://raw.githubusercontent.com/marmelab/gremlins.js/master/other/gremlins.png"
+    alt="setho.jpg"
+    src="'../../assets/images/"
 />
 
 <p>health for students</p>
