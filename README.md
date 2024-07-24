@@ -3,7 +3,7 @@ ng serve
 <h1>med</h1>
 
 <!--[Setho](src/assets/images/setho.jpg){: style = "width="40" height="30""https://github.com/TendekayiZ/MOHCC-Frontend/blob/frontend/src/assets/images/setho.jpg }-->
-<img src="" width="200" height="400" />
+<img src="file:///home/biko/Downloads/mn.webp" width="200" height="400" />
 
 
 
