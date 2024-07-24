@@ -1,7 +1,7 @@
 ng serve
 <div align="center">
 <h1>med</h1>
-<!--[Setho]('/assets/images/setho.jpg')>!
+<!--[Setho]('/assets/images/setho.jpg')-->
 
 
 
