@@ -18,12 +18,6 @@ ng serve
 
 <hr />
 
-[![]()]()
-
-<div align="center">
-<img/>
-    
-</div>
 
 > 
 >
@@ -53,24 +47,31 @@ ng serve
 
 ## Purpose
 
-Ever encounted a situation whereby students suffer from STDs and STIs ashemed to be open.
+Ever encounted a situation whereby students suffer from STDs and STIs ashamed to be open.
 
-: This app, is useful to keep our patient private. The patient gets both treatement and privacy.
+: This app, is useful to keep our patient privacy. The patient gets both treatement and privacy.
 
 
 ## Installation
-Requirements for frontend installation
+
+Requirements for frontend installation;
 
 Node.js and npm (Node Package Manager): Most modern frontend frameworks and libraries, such as React, Angular, and Vue.js, require Node.js and npm to be installed on the development machine. Node.js provides the runtime environment for running JavaScript on the server-side, and npm is the package manager used to install and manage frontend dependencies.
+
 Code Editor: Developers typically use a code editor, such as Visual Studio Code, Sublime Text, or Atom, to write, edit, and manage the frontend code.
 
-This module is distributed via github. `dependencies`:
+This module is in github. `dependencies`:
 
 ```
-npm install -g @angular/cli
 node -v
+```
+```
 npm -v
-cd my-app
+```
+```
+npm install -g @angular/cli
+```
+```
 ng serve
 ```
 
