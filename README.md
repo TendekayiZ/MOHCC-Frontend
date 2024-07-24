@@ -2,7 +2,8 @@ ng serve
 <div align="center">
 <h1>med</h1>
 
-![Setho](src/assets/images/setho.jpg){: style = "width="40" height="30"" }
+<!--[Setho](src/assets/images/setho.jpg){: style = "width="40" height="30"" }-->
+<img src="https://github.com/TendekayiZ/MOHCC-Frontend/blob/frontend/src/assets/images/setho.jpg" width="200" height="400" />
 
 
 
