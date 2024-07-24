@@ -2,12 +2,7 @@ ng serve
 <div align="center">
 <h1>med</h1>
 
-<img
-    height="80"
-    width="80"
-    alt="setho"
-    src="'../../assets/images/"
-/>
+<img src="../../assets/images/" alt="setho"/>
 
 <p>health for students</p>
 
@@ -23,9 +18,8 @@ ng serve
 [![]()]()
 
 <div align="center">
-<img
-   
-/>
+<img/>
+    
 </div>
 
 > 
