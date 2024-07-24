@@ -2,7 +2,7 @@ ng serve
 <div align="center">
 <h1>med</h1>
 
-<img src="../../assets/images/" alt="setho"/>
+![Setho]('../../assets/images/.setho.jpg)
 
 <p>health for students</p>
 
@@ -37,7 +37,7 @@ ng serve
 - [Installation](#installation)
 - [Basic Usage](#basic-usage)
 - [Advanced Usage](#advanced-usage)
-  - [Setting Gremlins and Mogwais To Use In A Test](#setting-gremlins-and-mogwais-to-use-in-a-test)
+  
 
 - [Docs](#docs)
   - [Issues](#issues)
