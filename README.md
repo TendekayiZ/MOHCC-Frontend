@@ -2,12 +2,12 @@ ng serve
 <div align="center">
 <h1>med</h1>
 
-<!--[Setho](src/assets/images/setho.jpg){: style = "width="40" height="30""https://github.com/TendekayiZ/MOHCC-Frontend/blob/frontend/src/assets/images/setho.jpg }-->
-<img src="file:///home/biko/Downloads/mn.webp" width="200" height="400" />
+<!--[Setho](src/assets/images/setho.jpg){: style = "width="40" height="30"" }-->
+<img src="https://github.com/TendekayiZ/MOHCC-Frontend/blob/frontend/src/assets/images/setho.jpg" width="80" height="80" />
 
 
 
-<p>health for students</p>
+<p>We are here for you</p>
 
 <br />
 
@@ -59,11 +59,19 @@ Ever encounted a situation whereby students suffer from STDs and STIs ashemed to
 
 
 ## Installation
+Requirements for frontend installation
+
+Node.js and npm (Node Package Manager): Most modern frontend frameworks and libraries, such as React, Angular, and Vue.js, require Node.js and npm to be installed on the development machine. Node.js provides the runtime environment for running JavaScript on the server-side, and npm is the package manager used to install and manage frontend dependencies.
+Code Editor: Developers typically use a code editor, such as Visual Studio Code, Sublime Text, or Atom, to write, edit, and manage the frontend code.
 
 This module is distributed via github. `dependencies`:
 
 ```
-
+npm install -g @angular/cli
+node -v
+npm -v
+cd my-app
+ng serve
 ```
 
 
