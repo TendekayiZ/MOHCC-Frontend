@@ -2,7 +2,7 @@ ng serve
 <div align="center">
 <h1>med</h1>
 
-![Setho](src/assets/images/setho.jpg)
+![Setho](src/assets/images/setho.jpg =80*80)
 
 
 
