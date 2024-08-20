@@ -88,7 +88,7 @@ ng serve
 
 ### Issues
 
-_Looking to contribute? Look for the 
+_Looking to contribute? It's open 
 ### 🐛 Bugs
 
 Please file an issue for bugs, missing documentation, or unexpected behavior.
